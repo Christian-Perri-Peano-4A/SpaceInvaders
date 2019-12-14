@@ -6,3 +6,4 @@ in questa classe si estende la classe jFrame che ci permette di avere delle funz
 Per quanto riguarda la classe Space essa estende la classe Canvas che ci permette di catturare gli input dell' utente come per esempio il click di un pulsante della tastiera.
 
 # step1
+
