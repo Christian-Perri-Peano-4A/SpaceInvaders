@@ -38,8 +38,8 @@ public class SpaceInvederss extends JFrame {
 
     @Override
     public void paint(Graphics g) {
-        // scrivi nel canvas la scritta in Rosso 
-        g.setColor(Color.red);
+        // scrivi nel canvas la scritta in blu 
+        g.setColor(Color.blue);
         // Seleziona i Font della scritta (Bold) e la dimensione dei caratteri (40)
         g.setFont(new Font("Bold", Font.PLAIN, 40));
         // Scrivi partendo dalla posizione x=100 e y=100
