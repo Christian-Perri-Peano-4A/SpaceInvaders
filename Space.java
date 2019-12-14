@@ -10,7 +10,7 @@ import java.awt.Color;
 
 /**
  *
- * @author zizzari.gabriele
+ * @author perri.christian
  */
 class Space extends Canvas{
      Space() {
