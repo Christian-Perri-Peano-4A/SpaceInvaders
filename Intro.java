@@ -7,7 +7,7 @@ package spaceinvederss;
 
 /**
  *
- * @author zizzari.gabriele
+ * @author perri.christian
  */
 class Intro {
 
