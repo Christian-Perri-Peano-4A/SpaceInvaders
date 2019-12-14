@@ -45,7 +45,7 @@ public class SpaceInvederss extends JFrame {
         // Scrivi partendo dalla posizione x=100 e y=100
         g.drawString("Space Invaders", 100, 100);
         g.setFont(new Font("Bold", Font.PLAIN, 10));
-        g.drawString("          by Matteo Palitto", 110, 110);
+        g.drawString("\t by Perri Christian", 110, 110);
     }
 
     private void add(Intro intro) {
