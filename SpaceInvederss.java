@@ -13,7 +13,7 @@ import javax.swing.WindowConstants;
 
 /**
  *
- * @author zizzari.gabriele
+ * @author perri.christian
  */
 public class SpaceInvederss extends JFrame {
 
