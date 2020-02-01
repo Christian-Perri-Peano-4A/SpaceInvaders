@@ -29,7 +29,7 @@ public class SpaceInvaders extends JFrame {
     }
 
     public static void main(String[] args) throws InterruptedException {
-        SpaceInvaders gioco=new SpaceInvaders();
+        SpaceInvaders gioco = new SpaceInvaders();
         Space spazio = new Space();
 
     }

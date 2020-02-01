@@ -12,10 +12,11 @@ import java.awt.Color;
  *
  * @author perri.christian
  */
-class Space extends Canvas{
-     Space() {
-       System.out.println();
-       setBackground (Color.BLACK);
-       setSize(800, 600);
+class Space extends Canvas {
+
+    Space() {
+        System.out.println();
+        setBackground(Color.BLACK);
+        setSize(800, 600);
     }
 }
