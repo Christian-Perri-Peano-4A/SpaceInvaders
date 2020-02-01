@@ -12,7 +12,7 @@ In questo step abbiamo creato la classe Intro che serve ad aggiungere una scritt
 
 in questo step si vuole dare un' animazione alla scritta che compare facendola venire verso l'interno dello schermo,per far ciò  si crea un metodo run all'interno della classe Intro e si richiama il metodo repaint(ereditato dalla classe Canvas) all' interno di un ciclo.Dopo che il medoto paint sviluppa un immagine si chiama il metodo repaint ch richiamerà il metodo paint cancellando l'immagine sviluppata in prcedenza. 
 
-# spet3
+# step3
 
 In questo step abbiamo eliminato lo sfarfallio causato dall' animazione del titolo creata nel precedente step.
 Per far ciò abbiamo creato due Canvas in maniera tale che quand un immagine viene sviluppata la successiva sarà subito pronta per sostituire quella visualizzata in precedenza.A livello di codice per far ciò abbiamo usato la classe BufferStrategy derivata dalla classe Canvas.
